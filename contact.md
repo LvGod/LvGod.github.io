@@ -4,9 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# 联系方式 #
-
-
 **手机号：15510964686**
 
 **QQ：1012032011**
