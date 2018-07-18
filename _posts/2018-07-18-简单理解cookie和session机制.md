@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【文章】简单理解cookiesession机制
+title: 【文章】简单理解cookie/session机制
 summary: 今天对“cookie”和“session”做一些简单的小总结，帮助我们在产品设计中更好的与开发哥哥们沟通。
 featured-img: sleek
 ---
