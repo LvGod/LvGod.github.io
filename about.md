@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 介绍 ##
+# 介绍 #
 
 ![](https://i.imgur.com/tBo08sk.jpg)
 
