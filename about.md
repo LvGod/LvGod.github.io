@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 介绍 ##
 
-![](https://i.imgur.com/kudxMFW.jpg)
+![](https://i.imgur.com/Eg6Y2Sl.jpg)
 
 **吕悦然**
 
